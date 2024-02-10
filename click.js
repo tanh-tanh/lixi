@@ -45,6 +45,6 @@ cho.addEventListener('click', () => {
     cho.style.display = "none"
     dcho.style.display = "none"
     h4t.textContent = " Cảm ơn cậu nhé hihi! \r\n"
-    h4t.textContent += " TÊN : Giang Hoang Long\r\n"
-    h4t.textContent += " STK : 0975522495 MB Bank"
+    h4t.textContent += " TÊN : Hoàng Đinh Tuấn Anh\r\n"
+    h4t.textContent += " STK : 0916913567 MB Bank"
 })
